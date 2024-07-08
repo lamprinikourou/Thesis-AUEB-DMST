@@ -1,6 +1,6 @@
 Το αρχείο Thesis_Research_Replication έχει το replication + evaluation της αρχικής έρευνας (CICIoV2024 Paper) για τα decimal δεδομένα.
 
-Το αρχείο Thesis_Research_Replication έχει το replication + evaluation της αρχικής έρευνας (CICIoV2024 Paper) για τα binary δεδομένα.
+Το αρχείο Thesis_Research_Replication_Binary έχει το replication + evaluation της αρχικής έρευνας (CICIoV2024 Paper) για τα binary δεδομένα.
 
 Το αρχείο Thesis_Research_ Additional έχει το evaluation των νέων αλγορίθμων για τα decimal δεδομένα.
 
